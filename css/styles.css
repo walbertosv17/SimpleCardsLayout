@@ -1,8 +1,8 @@
 .title-container {
-  background-color: red;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
+  font-family: monospace;
 }
 .title-container div {
   padding: 15px;
