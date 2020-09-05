@@ -1,12 +1,12 @@
 .title-container {
   display: grid;
+  background-color: blue;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   font-family: monospace;
 }
 .title-container div {
   padding: 15px;
-  border: 1px solid black;
   text-align: center;
   height: 100vh;
 }
